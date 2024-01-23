@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
-
-
-
-[![](https://visitcount.itsvg.in/api?id=Fatiralfatih&label=commitment&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Fatiralfatih&label=commitment&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
